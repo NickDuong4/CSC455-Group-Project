@@ -1,0 +1,13 @@
+customer 1 ID
+customer 1 user name
+customer 1 first name
+customer 1 last name
+customer 1 date of birth
+customer 1 total reward points
+
+customer 2 ID
+customer 2 user name
+customer 2 first name
+customer 2 last name
+customer 2 date of birth
+customer 2 total reward points

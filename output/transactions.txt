@@ -1,0 +1,6 @@
+Transaction ID: T1702011399
+User ID: 1702008997
+Product IDs: 
+Total amount: $0
+Total reward points: 0
+--------------------------

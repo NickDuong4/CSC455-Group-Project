@@ -1,0 +1,9 @@
+product 1 ID
+product 1 name
+product 1 price
+product 1 total items in store
+
+product 2 ID
+product 2 name
+product 2 price
+product 2 total items in store

@@ -1,0 +1,8 @@
+Username: michaelsmith
+First Name: michael
+Last Name: smith
+Age: 18
+Credit Card Number: 6232-8235-2323
+User ID: 1702013260
+Reward Points: 50
+--------------------------

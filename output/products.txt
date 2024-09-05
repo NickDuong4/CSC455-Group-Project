@@ -1,0 +1,10 @@
+Prod00001
+phone
+50
+5
+
+Prod00002
+computer
+50
+10
+

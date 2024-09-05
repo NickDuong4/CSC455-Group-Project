@@ -1,0 +1,5 @@
+Transaction ID
+User ID
+Product 1 ID , Product 2 ID , Product 3 ID ...
+Total amount
+Total reward points
